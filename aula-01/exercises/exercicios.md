@@ -1,4 +1,4 @@
-# Exercícios — Aula 01
+# Exercícios: Aula 01
 
 Tente resolver antes de abrir as [respostas comentadas](respostas.md).
 

@@ -1,4 +1,4 @@
-# ABC do ESP32 — Do Zero aos Projetos Inteligentes
+# ABC do ESP32: Do Zero aos Projetos Inteligentes
 
 Material de apoio do curso **ABC do ESP32**, no YouTube: código, circuito, guias e exercícios de cada aula.
 

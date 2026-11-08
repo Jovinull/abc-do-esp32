@@ -1,4 +1,4 @@
-# Respostas comentadas — Aula 01
+# Respostas comentadas: Aula 01
 
 ## Compreensão
 

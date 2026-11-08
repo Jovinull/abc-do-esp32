@@ -1,4 +1,4 @@
-# Aula 01 — Do zero ao primeiro LED
+# Aula 01: Do zero ao primeiro LED
 
 Material de apoio da aula **ESP32 do Zero: Entenda a Placa e Faça Seu Primeiro LED Piscar**, do curso **ABC do ESP32**.
 
